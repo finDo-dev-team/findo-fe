@@ -1,0 +1,3 @@
+.item-a {
+    @apply h-16 px-6 flex flex justify-center items-center w-full
+}
